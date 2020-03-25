@@ -1,2 +1,0 @@
-obj\Debug\netcoreapp3.1/Graphdefinitionservice.cs \
-obj\Debug\netcoreapp3.1/GraphdefinitionserviceGrpc.cs: Protos/graphdefinitionservice.proto

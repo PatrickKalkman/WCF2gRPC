@@ -279,11 +279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient\\GraphDefinitionServiceClient.csproj",
+      "projectUniqueName": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient.CSharp\\GraphDefinitionServiceClient.csproj",
       "projectName": "GraphDefinitionServiceClient",
-      "projectPath": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient\\GraphDefinitionServiceClient.csproj",
+      "projectPath": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient.CSharp\\GraphDefinitionServiceClient.csproj",
       "packagesPath": "C:\\Users\\pkalk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient\\obj\\",
+      "outputPath": "C:\\Projects\\st\\grpc\\GraphDefinitionServiceClient.CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pkalk\\AppData\\Roaming\\NuGet\\NuGet.Config",

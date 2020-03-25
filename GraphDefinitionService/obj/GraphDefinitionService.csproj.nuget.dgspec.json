@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\st\\grpc\\GrpcService1\\GraphDefinitionService.csproj": {}
+    "C:\\Projects\\st\\grpc\\GraphDefinitionService\\GraphDefinitionService.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\st\\grpc\\GrpcService1\\GraphDefinitionService.csproj": {
+    "C:\\Projects\\st\\grpc\\GraphDefinitionService\\GraphDefinitionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\st\\grpc\\GrpcService1\\GraphDefinitionService.csproj",
+        "projectUniqueName": "C:\\Projects\\st\\grpc\\GraphDefinitionService\\GraphDefinitionService.csproj",
         "projectName": "GraphDefinitionService",
-        "projectPath": "C:\\Projects\\st\\grpc\\GrpcService1\\GraphDefinitionService.csproj",
+        "projectPath": "C:\\Projects\\st\\grpc\\GraphDefinitionService\\GraphDefinitionService.csproj",
         "packagesPath": "C:\\Users\\pkalk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\st\\grpc\\GrpcService1\\obj\\",
+        "outputPath": "C:\\Projects\\st\\grpc\\GraphDefinitionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkalk\\AppData\\Roaming\\NuGet\\NuGet.Config",
